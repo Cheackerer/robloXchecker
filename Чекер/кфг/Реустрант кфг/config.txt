@@ -1,0 +1,19 @@
+0 proxy mode
+http proxy type
+proxy urls
+40 threads
+60 proxy sleep
+100 min robux
+2000 min rap
+5000 min donate
+10000 min visits
+10154171,10154174,10154179,10154183,10253868,10254010,10648314,10474092,11504638,10154165,10154168 passes ids
+2124565754,2124565755 badges ids
+2703304 groups ids
+0 full check
+0 group mode
+1 check
+0 group check
+0 nick_mode
+0 link_mode
+1 unique mode
